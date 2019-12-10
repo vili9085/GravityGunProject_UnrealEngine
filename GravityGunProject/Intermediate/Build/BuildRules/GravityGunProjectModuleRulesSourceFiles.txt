@@ -1,0 +1,3 @@
+C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject\GravityGunProject.Build.cs
+C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject.Target.cs
+C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProjectEditor.Target.cs

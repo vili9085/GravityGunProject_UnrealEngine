@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GravityGunProject-9859.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\GravityGunProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGun.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGunProject.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGunProjectCharacter.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGunProjectGameMode.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGunProjectHUD.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\Weapon.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGun.gen.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGunProject.init.gen.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGunProjectCharacter.gen.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGunProjectGameMode.gen.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\GravityGunProjectHUD.gen.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\Weapon.gen.cpp.obj"
+"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\Default.rc2.res"
+/OUT:"C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-9859.lib"
+/INCLUDE:IMPLEMENT_MODULE_GravityGunProject

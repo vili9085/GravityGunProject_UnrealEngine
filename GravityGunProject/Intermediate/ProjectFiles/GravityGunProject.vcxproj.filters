@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GravityGunProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{80602B86-E554-4626-92A7-4E25CA8C18BD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GravityGunProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GravityGunProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{06A71FA1-0B26-415E-B347-6F8A43B9F8EB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GravityGunProject">
+      <UniqueIdentifier>{43B77A22-03F4-48A5-8496-013FB5B8A7A9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GravityGunProject\GravityGun.cpp">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityGunProject\GravityGun.h">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GravityGunProject\GravityGunProject.Build.cs">
+      <Filter>Source\GravityGunProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GravityGunProject\GravityGunProject.cpp">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityGunProject\GravityGunProject.h">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GravityGunProject\GravityGunProjectCharacter.cpp">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityGunProject\GravityGunProjectCharacter.h">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GravityGunProject\GravityGunProjectGameMode.cpp">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityGunProject\GravityGunProjectGameMode.h">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GravityGunProject\GravityGunProjectHUD.cpp">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityGunProject\GravityGunProjectHUD.h">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GravityGunProject\Weapon.cpp">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GravityGunProject\Weapon.h">
+      <Filter>Source\GravityGunProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

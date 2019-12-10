@@ -1,0 +1,23 @@
+﻿  Creating makefile for GravityGunProjectEditor (no existing makefile)
+  Parsing headers for GravityGunProjectEditor
+    Running UnrealHeaderTool "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\GravityGunProject.uproject" "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\GravityGunProjectEditor\Development\GravityGunProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for GravityGunProjectEditor in 9,3151425 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 11 actions with 6 processes...
+    [1/11] GravityGunProject.init.gen.cpp
+    [2/11] GravityGun.gen.cpp
+    [3/11] GravityGunProjectCharacter.gen.cpp
+    [4/11] GravityGunProjectHUD.gen.cpp
+    [5/11] GravityGunProjectGameMode.cpp
+    [6/11] GravityGunProjectHUD.cpp
+    [7/11] GravityGunProjectCharacter.cpp
+    [8/11] GravityGun.cpp
+C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject\GravityGun.cpp(122): warning C4996: 'FCollisionQueryParams::FCollisionQueryParams': FCollisionQueryParams, to avoid ambiguity, please use other constructor and explicitly provide an FName parameter (not just a string literal) as the first parameter Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.23\engine\source\runtime\engine\public\CollisionQueryParams.h(133): note: see declaration of 'FCollisionQueryParams::FCollisionQueryParams'
+    [9/11] UE4Editor-GravityGunProject-0058.lib
+       Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-0058.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-0058.exp
+    [10/11] UE4Editor-GravityGunProject-0058.dll
+       Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-0058.suppressed.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-0058.suppressed.exp
+    [11/11] GravityGunProjectEditor.target
+  Total time in Parallel executor: 196,22 seconds
+  Total execution time: 220,22 seconds

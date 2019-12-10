@@ -1,0 +1,3 @@
+C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\Definitions.GravityGunProject.h
+c:\users\viktor\documents\unreal projects\gravitygunproject\source\gravitygunproject\AWeapon.h
+C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Inc\GravityGunProject\AWeapon.generated.h

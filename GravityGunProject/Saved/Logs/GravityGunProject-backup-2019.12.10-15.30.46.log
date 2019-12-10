@@ -1,0 +1,1454 @@
+﻿Log file open, 12/10/19 12:34:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GravityGunProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 17.199087
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 7 (Service Pack 1), CPU: AMD Phenom(tm) II X6 1055T Processor, GPU: Radeon(TM) RX 460 Graphics 
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.10-11.34.38:475][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.10-11.34.38:475][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.10-11.34.38:476][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Engine.ini]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Engine.ini]
+[2019.12.10-11.34.38:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Engine.ini]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.10-11.34.38:477][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Engine.ini]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.10-11.34.38:478][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.10-11.34.38:479][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.10-11.34.38:479][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.10-11.34.38:479][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Engine.ini]
+[2019.12.10-11.34.38:479][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Engine.ini]
+[2019.12.10-11.34.38:628][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.10-11.34.38:629][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:629][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.10-11.34.38:630][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.10-11.34.38:631][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:632][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.10-11.34.38:632][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.10-11.34.38:745][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.10-11.34.38:746][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.10-11.34.38:788][  0]LogHAL: Display: Platform has ~ 8 GB [8587350016 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.10-11.34.38:788][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.10-11.34.38:788][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:788][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.12.10-11.34.38:788][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.12.10-11.34.38:788][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:788][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.12.10-11.34.38:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.12.10-11.34.38:790][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.10-11.34.38:791][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.10-11.34.38:791][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.10-11.34.38:791][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Config/Windows/Engine.ini]
+[2019.12.10-11.34.38:889][  0]LogInit: Computer: VIKTOR-DATOR
+[2019.12.10-11.34.38:889][  0]LogInit: User: Viktor
+[2019.12.10-11.34.38:889][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.10-11.34.38:889][  0]LogInit: High frequency timer resolution =2.746982 MHz
+[2019.12.10-11.34.38:889][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.12.10-11.34.38:890][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.10-11.34.38:890][  0]LogMemory: Process Physical Memory: 102.09 MB used, 102.09 MB peak
+[2019.12.10-11.34.38:890][  0]LogMemory: Process Virtual Memory: 103.20 MB used, 103.20 MB peak
+[2019.12.10-11.34.38:890][  0]LogMemory: Physical Memory: 3582.80 MB used,  4606.73 MB free, 8189.54 MB total
+[2019.12.10-11.34.38:890][  0]LogMemory: Virtual Memory: 539.84 MB used,  8388068.00 MB free, 8388608.00 MB total
+[2019.12.10-11.34.40:085][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.10-11.34.46:679][  0]LogInit: Using OS detected language (sv-SE).
+[2019.12.10-11.34.46:679][  0]LogInit: Using OS detected locale (sv-SE).
+[2019.12.10-11.34.46:931][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2019.12.10-11.35.03:181][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.12.10-11.35.03:181][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.12.10-11.35.03:182][  0]LogInit: Setting process to DPI aware
+[2019.12.10-11.35.06:160][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.10-11.35.06:160][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.10-11.35.14:410][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.12.10-11.35.14:411][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.10-11.35.14:803][  0]LogD3D11RHI:    0. 'Radeon(TM) RX 460 Graphics ' (Feature Level 11_0)
+[2019.12.10-11.35.14:803][  0]LogD3D11RHI:       1992/0/3838 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.12.10-11.35.14:803][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.10-11.35.14:810][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.10-11.35.14:810][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2019.12.10-11.35.14:810][  0]LogWindows: EnumDisplayDevices:
+[2019.12.10-11.35.14:924][  0]LogWindows:    0. 'Radeon(TM) RX 460 Graphics ' (P:1 D:1)
+[2019.12.10-11.35.14:974][  0]LogWindows:    1. 'Radeon(TM) RX 460 Graphics ' (P:0 D:0)
+[2019.12.10-11.35.14:976][  0]LogWindows:    2. 'Radeon(TM) RX 460 Graphics ' (P:0 D:0)
+[2019.12.10-11.35.14:977][  0]LogWindows:    3. 'Radeon(TM) RX 460 Graphics ' (P:0 D:0)
+[2019.12.10-11.35.14:978][  0]LogWindows:    4. 'Radeon(TM) RX 460 Graphics ' (P:0 D:0)
+[2019.12.10-11.35.14:979][  0]LogWindows:    5. 'RDPDD Chained DD' (P:0 D:0)
+[2019.12.10-11.35.14:979][  0]LogWindows:    6. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.12.10-11.35.14:980][  0]LogWindows:    7. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.12.10-11.35.14:980][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:5 
+[2019.12.10-11.35.14:980][  0]LogD3D11RHI:     Adapter Name: Radeon(TM) RX 460 Graphics 
+[2019.12.10-11.35.15:001][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 16.12.1 (internal:21.19.384.0, unified:21.19.384.0)
+[2019.12.10-11.35.15:001][  0]LogD3D11RHI:      Driver Date: 12-4-2016
+[2019.12.10-11.35.15:001][  0]LogRHI: Texture pool is 1394 MB (70% of 1992 MB)
+[2019.12.10-11.35.15:773][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.10-11.35.15:898][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.12.10-11.35.17:883][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.10-11.35.17:957][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.10-11.35.18:019][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.10-11.35.18:123][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.10-11.35.18:242][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.10-11.35.18:379][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.10-11.35.18:629][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.10-11.35.18:697][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.10-11.35.19:081][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.10-11.35.19:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.10-11.35.19:588][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.10-11.35.19:856][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.10-11.35.19:856][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.10-11.35.19:880][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.10-11.35.19:880][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.10-11.35.19:936][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.10-11.35.19:950][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.10-11.35.19:966][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.10-11.35.20:277][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.10-11.35.20:399][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.10-11.35.20:399][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.10-11.35.20:399][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.10-11.35.20:575][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.10-11.35.22:795][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Intermediate/Shaders/WorkingDirectory/268/).
+[2019.12.10-11.35.22:795][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Viktor/AppData/Local/Temp/UnrealShaderWorkingDir/C5CA263843F8E97F6EB32D985EC59DD5/'.
+[2019.12.10-11.35.22:862][  0]LogXGEController: Cleaning working directory: C:/Users/Viktor/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.10-11.35.22:862][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.10-11.35.22:894][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.10-11.35.22:894][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.10-11.35.31:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.10-11.35.33:144][  0]LogDerivedDataCache: Loaded boot cache 1.50s 76MB C:/Users/Viktor/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.10-11.35.33:145][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Viktor/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.10-11.35.33:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.10-11.35.33:145][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.10-11.35.33:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.10-11.35.33:145][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.10-11.35.33:286][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.10-11.35.33:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.10-11.35.33:286][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.10-11.35.33:288][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Viktor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.10-11.35.33:288][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.10-11.35.33:288][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.10-11.35.33:380][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.10-11.35.33:401][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.10-11.35.33:509][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.10-11.35.38:078][  0]LogAssetRegistry: FAssetRegistry took 0.0075 seconds to start up
+[2019.12.10-11.35.47:541][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.10-11.35.51:593][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.10-11.35.51:593][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.10-11.35.51:593][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.10-11.35.51:593][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.10-11.35.51:593][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.10-11.35.52:773][  0]LogNetVersion: GravityGunProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 198256356)
+[2019.12.10-11.36.12:527][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.347521 seconds
+[2019.12.10-11.36.12:703][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.10-11.36.12:703][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.10-11.36.12:703][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.10-11.37.34:243][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.10-11.37.34:369][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.10-11.37.51:708][  0]LogMaterial: Display: Missing cached shader map for material M_Spark, compiling. 
+[2019.12.10-11.37.52:183][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 54
+[2019.12.10-11.37.52:183][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.12.10-11.37.52:183][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2019.12.10-11.37.52:183][  0]LogMaterial: Display: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2019.12.10-11.37.52:659][  0]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.12.10-11.37.52:911][  0]LogMaterial: Display: Missing cached shader map for material M_radial_ramp, compiling. 
+[2019.12.10-11.37.52:955][  0]LogMaterial: Display: Missing cached shader map for material m_flare_01, compiling. 
+[2019.12.10-11.37.52:999][  0]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2019.12.10-11.37.53:081][  0]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2019.12.10-11.37.57:112][  0]SourceControl: Source control is disabled
+[2019.12.10-11.37.57:112][  0]SourceControl: Source control is disabled
+[2019.12.10-11.37.57:846][  0]SourceControl: Source control is disabled
+[2019.12.10-11.37.57:874][  0]SourceControl: Source control is disabled
+[2019.12.10-11.38.08:401][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.10-11.38.09:717][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 465
+[2019.12.10-11.38.11:437][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 455
+[2019.12.10-11.38.11:437][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 445
+[2019.12.10-11.38.12:769][  0]LogOcInput: OculusInput pre-init called
+[2019.12.10-11.38.12:997][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.10-11.38.12:997][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.10-11.38.14:131][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 435
+[2019.12.10-11.38.16:457][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 425
+[2019.12.10-11.38.16:457][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 415
+[2019.12.10-11.38.18:225][  0]LogEngine: Initializing Engine...
+[2019.12.10-11.38.18:329][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2019.12.10-11.38.18:346][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.015 s
+[2019.12.10-11.38.19:107][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 405
+[2019.12.10-11.38.19:107][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 395
+[2019.12.10-11.38.21:164][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 385
+[2019.12.10-11.38.23:350][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 375
+[2019.12.10-11.38.23:350][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 365
+[2019.12.10-11.38.24:798][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.10-11.38.25:143][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.10-11.38.25:213][  0]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-11.38.25:314][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 355
+[2019.12.10-11.38.25:314][  0]LogInit: FAudioDevice initialized.
+[2019.12.10-11.38.25:315][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.10-11.38.25:930][  0]LogDerivedDataCache: Saved boot cache 0.62s 76MB C:/Users/Viktor/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.10-11.38.25:947][  0]LogInit: Texture streaming: Enabled
+[2019.12.10-11.38.29:374][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 345
+[2019.12.10-11.38.29:374][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 335
+[2019.12.10-11.38.29:374][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.10-11.38.29:374][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.10-11.38.29:427][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.10-11.38.31:359][  0]LogInit: Transaction tracking system initialized
+[2019.12.10-11.38.33:534][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 325
+[2019.12.10-11.38.33:534][  0]BlueprintLog: New page: Editor Load
+[2019.12.10-11.38.34:248][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 315
+[2019.12.10-11.38.35:519][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 305
+[2019.12.10-11.38.37:507][  0]LocalizationService: Localization service is disabled
+[2019.12.10-11.38.42:247][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 295
+[2019.12.10-11.38.42:247][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 285
+[2019.12.10-11.38.56:638][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 275
+[2019.12.10-11.38.56:638][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 265
+[2019.12.10-11.38.56:638][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 255
+[2019.12.10-11.38.56:638][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 245
+[2019.12.10-11.38.56:638][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 235
+[2019.12.10-11.38.56:638][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 225
+[2019.12.10-11.38.56:638][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 215
+[2019.12.10-11.38.57:808][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 205
+[2019.12.10-11.38.58:942][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 195
+[2019.12.10-11.39.00:231][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 185
+[2019.12.10-11.39.01:406][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 175
+[2019.12.10-11.39.10:764][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 165
+[2019.12.10-11.39.11:891][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 155
+[2019.12.10-11.39.12:876][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 145
+[2019.12.10-11.39.12:876][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/' took 0.01s
+[2019.12.10-11.39.12:876][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.10-11.39.12:892][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.10-11.39.18:862][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 135
+[2019.12.10-11.39.18:862][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 125
+[2019.12.10-11.39.18:862][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 115
+[2019.12.10-11.39.18:862][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 105
+[2019.12.10-11.39.18:862][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 95
+[2019.12.10-11.39.20:125][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 85
+[2019.12.10-11.39.24:759][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 75
+[2019.12.10-11.39.24:759][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2019.12.10-11.39.24:760][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2019.12.10-11.39.28:148][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.12.10-11.39.28:148][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2019.12.10-11.39.29:161][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2019.12.10-11.39.32:426][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2019.12.10-11.39.32:426][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.12.10-11.39.32:426][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2019.12.10-11.39.38:706][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.12.10-11.39.38:706][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2019.12.10-11.39.40:795][  0]SourceControl: Source control is disabled
+[2019.12.10-11.39.40:857][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.10-11.39.41:121][  0]LightingResults: New page: Lighting Build
+[2019.12.10-11.39.41:540][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-11.39.41:541][  0]MapCheck: New page: Map Check
+[2019.12.10-11.39.41:541][  0]LightingResults: New page: Lighting Build
+[2019.12.10-11.39.41:615][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.12.10-11.39.49:996][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.10-11.39.53:380][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.10-11.39.54:050][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.12.10-11.39.54:775][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.10-11.39.54:776][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,598ms to complete.
+[2019.12.10-11.39.54:776][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 13.930
+[2019.12.10-11.39.58:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-11.39.58:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-11.39.58:654][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-11.39.58:667][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-11.39.59:040][  0]LogCollectionManager: Loaded 0 collections in 0.008022 seconds
+[2019.12.10-11.40.01:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Collections/' took 0.00s
+[2019.12.10-11.40.01:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/Developers/Viktor/Collections/' took 0.00s
+[2019.12.10-11.40.01:304][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/Collections/' took 0.00s
+[2019.12.10-11.40.01:304][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.12.10-11.40.02:745][  0]LogContentBrowser: Native class hierarchy populated in 1.3662 seconds. Added 2870 classes and 682 folders.
+[2019.12.10-11.40.03:898][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2019.12.10-11.40.22:378][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.10-11.40.23:049][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.12.10-11.40.27:013][  0]LogSlate: Took 0.210073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.10-11.40.27:403][  0]LogSlate: Took 0.382044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.10-11.40.28:062][  0]LogSlate: Took 0.649929 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.10-11.40.29:881][  0]LogRenderer: Reallocating scene render targets to support 1144x652 Format 9 NumSamples 1 (Frame:1).
+[2019.12.10-11.40.31:793][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2019.12.10-11.40.31:794][  0]LogLoad: (Engine Initialization) Total time: 400.50 seconds
+[2019.12.10-11.40.31:794][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.10-11.40.32:339][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.12.10-11.40.32:596][  0]LogSlate: Took 0.067210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.10-11.40.51:273][ 68]LogAssetRegistry: Asset discovery search completed in 313.1902 seconds
+[2019.12.10-11.40.51:279][ 68]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2019.12.10-11.40.51:279][ 68]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2019.12.10-11.41.31:951][190]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={281B036D-4342-8971-4A2E-599A8DE407A3}
+[2019.12.10-11.46.52:517][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-11.46.53:545][178]LogActor: Warning: FloatingActor /Engine/Transient.World_0:PersistentLevel.FloatingActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-11.46.57:586][652]LogSlate: Took 0.006553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.10-11.46.57:594][652]LogAssetEditorManager: Opening Asset editor for Class /Script/GravityGunProject.GravityGunProjectHUD
+[2019.12.10-12.21.53:193][661]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Viktor\Desktop\UnrealFPSProject_Assets\Crosshair_fps_tutorial\crosshair.TGA)
+[2019.12.10-12.21.53:342][661]LogTexture: Display: Building textures: crosshair (AutoDXT, 16X16)
+[2019.12.10-12.22.24:065][766]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/FirstPerson/Textures/FirstPersonCrosshair2.FirstPersonCrosshair2
+[2019.12.10-12.22.24:110][766]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.12.10-12.22.45:878][657]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.19:689][567]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.21:256][703]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.24:058][942]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.27:571][249]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.28:785][359]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.31:088][544]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.32:541][664]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.33:799][772]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.34:778][850]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.35:611][918]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.38:960][183]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.40:395][301]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.43:012][514]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.44:684][657]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.46:795][843]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.48:931][ 30]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.51:178][237]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.23.52:104][319]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.00:362][ 90]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.03:627][392]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.14:308][376]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.15:629][485]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.17:012][608]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.17:843][678]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.18:763][758]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.20:363][908]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.21:558][ 18]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.22:157][ 69]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.27:936][604]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.31:036][884]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.32:030][974]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.33:351][ 94]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.35:431][290]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.39:991][720]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-12.24.43:386][953]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonCrosshair264053B2642D08FB9180C14AFE3A089AF.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPerson/Textures/FirstPersonCrosshair2.uasset'
+[2019.12.10-12.24.44:791][ 59]LogSlate: Window 'FirstPersonCrosshair2' being destroyed
+[2019.12.10-12.24.44:797][ 59]LogSlate: Window 'FirstPersonCrosshair2' being destroyed
+[2019.12.10-12.25.13:565][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.10-12.25.13:566][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.144
+[2019.12.10-12.25.13:570][540]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Textures/crosshair] ([1] browsable assets)...
+[2019.12.10-12.25.13:571][540]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/Textures/crosshair.crosshair]
+[2019.12.10-12.25.13:571][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Textures/crosshair]
+[2019.12.10-12.25.13:600][540]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/crosshair_Auto1863C3C894EFAEB0C24C6EDAA560CB60D.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Autosaves/Game/FirstPerson/Textures/crosshair_Auto1.uasset'
+[2019.12.10-12.25.13:601][540]LogFileHelpers: Auto-saving content packages took 0.033
+[2019.12.10-13.06.11:335][595]Candidate modules for hot reload:
+[2019.12.10-13.06.11:335][595]  GravityGunProject
+[2019.12.10-13.06.11:336][595]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GravityGunProject,40 Win64 Development -TargetType=Editor -Project="C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject" "C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject"  -IgnoreJunk]
+[2019.12.10-13.06.11:352][595]Warning: Starting HotReload took  0.7s.
+[2019.12.10-13.08.29:350][942]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-13.08.29:852][943]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-13.12.26:031][598]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-13.12.26:532][599]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-13.12.27:032][599]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-13.12.27:532][599]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-13.14.37:891][ 54]CompilerResultsLog: New page: Compilation - 10 dec 2019 15:14:37
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog: Parsing headers for GravityGunProjectEditor
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\GravityGunProject.uproject" "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\GravityGunProjectEditor\Development\GravityGunProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog: Reflection code generated for GravityGunProjectEditor in 72,6287562 seconds
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog: Building 13 actions with 6 processes...
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [1/13] GravityGunProjectCharacter.gen.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [2/13] GravityGunProjectHUD.gen.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [3/13] GravityGun.gen.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [4/13] GravityGunProject.init.gen.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [5/13] GravityGunProjectHUD.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [6/13] Weapon.gen.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [7/13] Weapon.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [8/13] GravityGunProjectGameMode.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [9/13] GravityGunProjectCharacter.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [10/13] GravityGun.cpp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject\GravityGun.cpp(119): warning C4305: 'argument': truncation from 'int' to 'bool'
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject\GravityGun.cpp(121): warning C4996: 'FCollisionQueryParams::FCollisionQueryParams': FCollisionQueryParams, to avoid ambiguity, please use other constructor and explicitly provide an FName parameter (not just a string literal) as the first parameter Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   c:\program files\epic games\ue_4.23\engine\source\runtime\engine\public\CollisionQueryParams.h(133): note: see declaration of 'FCollisionQueryParams::FCollisionQueryParams'
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [11/13] UE4Editor-GravityGunProject-0040.lib
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:      Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-0040.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-0040.exp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:   [12/13] UE4Editor-GravityGunProject-0040.dll
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog:      Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-0040.suppressed.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-0040.suppressed.exp
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog: Error:   GravityGun.cpp.obj : error LNK2001: unresolved external symbol "public: static class AGravityGunProjectHUD * AGravityGunProjectHUD::Instance" (?Instance@AGravityGunProjectHUD@@2PEAV1@EA)
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog: Error:   GravityGunProjectHUD.cpp.obj : error LNK2001: unresolved external symbol "public: static class AGravityGunProjectHUD * AGravityGunProjectHUD::Instance" (?Instance@AGravityGunProjectHUD@@2PEAV1@EA)
+[2019.12.10-13.14.37:925][ 54]CompilerResultsLog: Error:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Binaries\Win64\UE4Editor-GravityGunProject-0040.dll : fatal error LNK1120: 1 unresolved externals
+[2019.12.10-13.14.37:925][ 54]LogMainFrame: MainFrame: Module compiling took 506.675 seconds
+[2019.12.10-13.14.37:943][ 54]Warning: HotReload failed, recompile failed
+[2019.12.10-13.15.33:152][677]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-13.15.33:373][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-13.15.33:433][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-13.15.33:436][677]PIE: New page: PIE session: FirstPersonExampleMap (10 dec 2019 15:15:33)
+[2019.12.10-13.15.33:713][677]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.10-13.15.33:778][677]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-13.15.34:558][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.779973s)
+[2019.12.10-13.15.34:616][677]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.10-13.15.34:661][677]LogPlayLevel: PIE: World Init took: (0.102712s)
+[2019.12.10-13.15.34:677][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.899632s)
+[2019.12.10-13.15.34:751][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.10-13.15.34:867][677]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-13.15.34:976][677]LogInit: FAudioDevice initialized.
+[2019.12.10-13.15.35:264][677]LogLoad: Game class is 'GravityGunProjectGameMode'
+[2019.12.10-13.15.35:660][677]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.10-14.15.35
+[2019.12.10-13.15.35:760][677]LogWorld: Bringing up level for play took: 0.239517
+[2019.12.10-13.15.35:795][677]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.10-13.15.37:220][677]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 20 classes and 0 folders.
+[2019.12.10-13.15.37:284][677]LogActor: Warning: BP_GravityGun_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_GravityGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-13.15.37:343][677]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 4,868
+[2019.12.10-13.15.37:344][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-13.15.56:054][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-13.15.56:091][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.15.56:091][645]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-13.15.56:104][645]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-13.15.56:205][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-13.15.56:206][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-13.15.56:382][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-13.15.56:556][645]LogUObjectHash: Compacting FUObjectHashTables data took   9.56ms
+[2019.12.10-13.15.56:682][646]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.10-13.23.00:705][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-13.23.00:949][496]Candidate modules for hot reload:
+[2019.12.10-13.23.00:949][496]  GravityGunProject
+[2019.12.10-13.23.00:950][496]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GravityGunProject,8311 Win64 Development -TargetType=Editor -Project="C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject" "C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject"  -IgnoreJunk]
+[2019.12.10-13.23.00:953][496]Warning: Starting HotReload took  0.1s.
+[2019.12.10-13.23.16:992][314]CompilerResultsLog: New page: Compilation - 10 dec 2019 15:23:16
+[2019.12.10-13.23.16:992][314]CompilerResultsLog: Parsing headers for GravityGunProjectEditor
+[2019.12.10-13.23.16:992][314]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\GravityGunProject.uproject" "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\GravityGunProjectEditor\Development\GravityGunProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.10-13.23.16:992][314]CompilerResultsLog: Reflection code generated for GravityGunProjectEditor in 10,8151644 seconds
+[2019.12.10-13.23.16:992][314]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.10-13.23.16:992][314]CompilerResultsLog: Building 3 actions with 6 processes...
+[2019.12.10-13.23.16:992][314]CompilerResultsLog:   [1/3] UE4Editor-GravityGunProject-8311.lib
+[2019.12.10-13.23.16:992][314]CompilerResultsLog:      Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-8311.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-8311.exp
+[2019.12.10-13.23.16:992][314]CompilerResultsLog:   [2/3] UE4Editor-GravityGunProject-8311.dll
+[2019.12.10-13.23.16:992][314]CompilerResultsLog:      Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-8311.suppressed.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-8311.suppressed.exp
+[2019.12.10-13.23.16:992][314]CompilerResultsLog: Error:   GravityGun.cpp.obj : error LNK2001: unresolved external symbol "public: static class AGravityGunProjectHUD * AGravityGunProjectHUD::Instance" (?Instance@AGravityGunProjectHUD@@2PEAV1@EA)
+[2019.12.10-13.23.16:992][314]CompilerResultsLog: Error:   GravityGunProjectHUD.cpp.obj : error LNK2001: unresolved external symbol "public: static class AGravityGunProjectHUD * AGravityGunProjectHUD::Instance" (?Instance@AGravityGunProjectHUD@@2PEAV1@EA)
+[2019.12.10-13.23.16:992][314]CompilerResultsLog: Error:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Binaries\Win64\UE4Editor-GravityGunProject-8311.dll : fatal error LNK1120: 1 unresolved externals
+[2019.12.10-13.23.16:992][314]LogMainFrame: MainFrame: Module compiling took 16.047 seconds
+[2019.12.10-13.23.16:992][314]Warning: HotReload failed, recompile failed
+[2019.12.10-14.09.20:327][316]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.09.20:397][316]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.09.22:031][436]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.09.22:735][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.09.22:780][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.09.22:799][436]PIE: New page: PIE session: FirstPersonExampleMap (10 dec 2019 16:09:22)
+[2019.12.10-14.09.22:951][436]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-14.09.24:038][436]LogPlayLevel: PIE: StaticDuplicateObject took: (1.062269s)
+[2019.12.10-14.09.24:288][436]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.10-14.09.24:364][436]LogPlayLevel: PIE: World Init took: (0.326286s)
+[2019.12.10-14.09.24:364][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (1.413198s)
+[2019.12.10-14.09.24:878][436]LogUObjectHash: Compacting FUObjectHashTables data took   9.65ms
+[2019.12.10-14.09.25:000][436]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.09.25:176][436]LogInit: FAudioDevice initialized.
+[2019.12.10-14.09.25:451][436]LogLoad: Game class is 'GravityGunProjectGameMode'
+[2019.12.10-14.09.25:611][436]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.10-15.09.25
+[2019.12.10-14.09.25:706][436]LogWorld: Bringing up level for play took: 0.231461
+[2019.12.10-14.09.25:765][436]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.10-14.09.25:839][436]LogActor: Warning: BP_GravityGun_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_GravityGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-14.09.25:853][436]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 3,317
+[2019.12.10-14.09.25:853][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.10.57:099][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.10.57:114][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.10.57:115][ 22]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-14.10.57:213][ 22]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.10.57:296][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.10.57:297][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.10.57:426][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.10.57:499][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2019.12.10-14.10.57:649][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.10-14.17.26:520][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.17.27:158][386]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/FirstPerson/Textures/FirstPersonCrosshair2.FirstPersonCrosshair2
+[2019.12.10-14.17.35:229][990]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-14.17.41:264][525]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-14.17.43:047][676]LogTexture: Display: Building textures: FirstPersonCrosshair2 (AutoDXT, 16X16)
+[2019.12.10-14.17.46:204][916]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonCrosshair248B0FEE1440B5E2D32A5DBAF139A70C8.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPerson/Textures/FirstPersonCrosshair2.uasset'
+[2019.12.10-14.17.49:697][ 49]LogSlate: Window 'FirstPersonCrosshair2' being destroyed
+[2019.12.10-14.17.49:701][ 49]LogSlate: Window 'FirstPersonCrosshair2' being destroyed
+[2019.12.10-14.20.31:544][227]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-14.20.32:045][228]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-14.23.13:487][  7]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.23.13:518][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.23.13:518][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.23.13:518][  7]PIE: New page: PIE session: FirstPersonExampleMap (10 dec 2019 16:23:13)
+[2019.12.10-14.23.13:518][  7]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-14.23.13:637][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118856s)
+[2019.12.10-14.23.13:639][  7]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.10-14.23.13:639][  7]LogPlayLevel: PIE: World Init took: (0.001938s)
+[2019.12.10-14.23.13:639][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.120970s)
+[2019.12.10-14.23.13:694][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.10-14.23.13:765][  7]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.23.13:818][  7]LogInit: FAudioDevice initialized.
+[2019.12.10-14.23.13:856][  7]LogLoad: Game class is 'GravityGunProjectGameMode'
+[2019.12.10-14.23.13:865][  7]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.10-15.23.13
+[2019.12.10-14.23.13:866][  7]LogWorld: Bringing up level for play took: 0.007434
+[2019.12.10-14.23.13:867][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.10-14.23.13:889][  7]LogActor: Warning: BP_GravityGun_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_GravityGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-14.23.13:890][  7]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1,337
+[2019.12.10-14.23.13:890][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.23.27:092][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.23.27:092][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.23.27:092][560]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-14.23.27:092][560]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.23.27:134][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.23.27:134][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.23.27:197][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.23.27:201][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.10-14.23.27:266][561]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.10-14.23.34:210][349]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.23.36:014][548]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.23.46:285][548]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.10-14.23.57:720][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.10-14.24.09:704][204]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.10-14.24.09:707][204]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.10-14.24.14:703][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.24.16:937][941]LogActor: Warning: BP_GravityGun_C /Engine/Transient.World_4:PersistentLevel.BP_GravityGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-14.24.31:085][338]LogAssetEditorManager: Opening Asset editor for Class /Script/GravityGunProject.GravityGunProjectGameMode
+[2019.12.10-14.28.31:718][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-14.44.14:972][563]Candidate modules for hot reload:
+[2019.12.10-14.44.14:972][563]  GravityGunProject
+[2019.12.10-14.44.14:999][563]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GravityGunProject,9414 Win64 Development -TargetType=Editor -Project="C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject" "C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject"  -IgnoreJunk]
+[2019.12.10-14.44.15:113][563]Warning: Starting HotReload took  0.4s.
+[2019.12.10-14.49.24:184][697]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.10-14.50.32:626][236]CompilerResultsLog: New page: Compilation - 10 dec 2019 16:50:32
+[2019.12.10-14.50.32:626][236]CompilerResultsLog: Parsing headers for GravityGunProjectEditor
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\GravityGunProject.uproject" "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\GravityGunProjectEditor\Development\GravityGunProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.10-14.50.32:626][236]CompilerResultsLog: Reflection code generated for GravityGunProjectEditor in 62,1488 seconds
+[2019.12.10-14.50.32:626][236]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.10-14.50.32:626][236]CompilerResultsLog: Building 10 actions with 6 processes...
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   [1/10] GravityGunProjectHUD.cpp
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   c1xx: error C3859: Failed to create virtual memory for PCH
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   c1xx: note: the system returned code 1455: Sidv?xlingsfilen ?r f?r liten f?r att kunna avsluta denna ?tg?rd.
+[2019.12.10-14.50.32:626][236]CompilerResultsLog: 
+[2019.12.10-14.50.32:626][236]CompilerResultsLog: 
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   c1xx: note: please visit https://aka.ms/pch-help for more details
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   c1xx: fatal error C1076: compiler limit: internal heap limit reached
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   [2/10] GravityGunProjectGameMode.cpp
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   [3/10] GravityGun.gen.cpp
+[2019.12.10-14.50.32:626][236]CompilerResultsLog:   [4/10] GravityGun.cpp
+[2019.12.10-14.50.32:627][236]CompilerResultsLog:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject\GravityGun.cpp(120): warning C4305: 'argument': truncation from 'int' to 'bool'
+[2019.12.10-14.50.32:627][236]CompilerResultsLog:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject\GravityGun.cpp(122): warning C4996: 'FCollisionQueryParams::FCollisionQueryParams': FCollisionQueryParams, to avoid ambiguity, please use other constructor and explicitly provide an FName parameter (not just a string literal) as the first parameter Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.10-14.50.32:627][236]CompilerResultsLog:   c:\program files\epic games\ue_4.23\engine\source\runtime\engine\public\CollisionQueryParams.h(133): note: see declaration of 'FCollisionQueryParams::FCollisionQueryParams'
+[2019.12.10-14.50.32:627][236]CompilerResultsLog:   [5/10] GravityGunProjectHUD.gen.cpp
+[2019.12.10-14.50.32:627][236]CompilerResultsLog:   [6/10] GravityGunProjectCharacter.gen.cpp
+[2019.12.10-14.50.32:627][236]CompilerResultsLog:   [7/10] GravityGunProjectCharacter.cpp
+[2019.12.10-14.50.32:627][236]LogMainFrame: MainFrame: Module compiling took 377.691 seconds
+[2019.12.10-14.50.32:627][236]Warning: HotReload failed, recompile failed
+[2019.12.10-14.50.34:785][414]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.10-14.50.34:789][414]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.10-14.51.00:896][999]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.51.00:899][999]LogSlate: Window 'Message Log' being destroyed
+[2019.12.10-14.53.53:450][  4]Candidate modules for hot reload:
+[2019.12.10-14.53.53:450][  4]  GravityGunProject
+[2019.12.10-14.53.53:450][  4]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GravityGunProject,1054 Win64 Development -TargetType=Editor -Project="C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject" "C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject"  -IgnoreJunk]
+[2019.12.10-14.53.53:464][  4]Warning: Starting HotReload took  0.2s.
+[2019.12.10-14.54.24:686][ 34]CompilerResultsLog: New page: Compilation - 10 dec 2019 16:54:24
+[2019.12.10-14.54.24:686][ 34]CompilerResultsLog: Parsing headers for GravityGunProjectEditor
+[2019.12.10-14.54.24:686][ 34]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\GravityGunProject.uproject" "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\GravityGunProjectEditor\Development\GravityGunProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.10-14.54.24:686][ 34]CompilerResultsLog: Reflection code generated for GravityGunProjectEditor in 10,1528058 seconds
+[2019.12.10-14.54.24:686][ 34]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog: Building 4 actions with 6 processes...
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog:   [1/4] GravityGunProjectHUD.cpp
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog:   [2/4] UE4Editor-GravityGunProject-1054.lib
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog:      Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-1054.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-1054.exp
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog:   [3/4] UE4Editor-GravityGunProject-1054.dll
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog:      Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-1054.suppressed.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-1054.suppressed.exp
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog:   [4/4] GravityGunProjectEditor.target
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog: Total time in Parallel executor: 18,94 seconds
+[2019.12.10-14.54.24:687][ 34]CompilerResultsLog: Total execution time: 31,10 seconds
+[2019.12.10-14.54.24:687][ 34]LogMainFrame: MainFrame: Module compiling took 31.241 seconds
+[2019.12.10-14.54.25:435][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.10-14.54.27:024][ 34]LogClass: Could not find existing class GravityGun in package /Script/GravityGunProject for HotReload, assuming new class
+[2019.12.10-14.54.27:044][ 34]LogClass: Could not find existing class Weapon in package /Script/GravityGunProject for HotReload, assuming new class
+[2019.12.10-14.54.27:165][ 34]LogClass: Function Fire is new.
+[2019.12.10-14.54.27:166][ 34]LogClass: Function OnEquip is new.
+[2019.12.10-14.54.27:166][ 34]LogClass: Function OnUnEquip is new.
+[2019.12.10-14.54.27:166][ 34]LogClass: Function SecondaryFire is new.
+[2019.12.10-14.54.27:166][ 34]LogClass: Could not find existing class GravityGunProjectCharacter in package /Script/GravityGunProject for HotReload, assuming new class
+[2019.12.10-14.54.27:186][ 34]LogClass: Could not find existing class GravityGunProjectHUD in package /Script/GravityGunProject for HotReload, assuming new class
+[2019.12.10-14.54.27:186][ 34]LogClass: Function UpdateCrosshairTexture is new.
+[2019.12.10-14.54.27:368][ 34]LogHotReload: Re-instancing GravityGun after hot-reload.
+[2019.12.10-14.54.28:473][ 34]LogActor: Warning: BP_GravityGun_C /Engine/Transient.World_4:PersistentLevel.BP_GravityGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-14.54.31:419][ 34]LogHotReload: Re-instancing GravityGunProjectCharacter after hot-reload.
+[2019.12.10-14.54.32:373][ 34]LogHotReload: Re-instancing GravityGunProjectGameMode after hot-reload.
+[2019.12.10-14.54.32:524][ 34]LogHotReload: Re-instancing GravityGunProjectHUD after hot-reload.
+[2019.12.10-14.54.32:718][ 34]LogHotReload: Re-instancing Weapon after hot-reload.
+[2019.12.10-14.54.33:052][ 34]LogContentBrowser: Native class hierarchy updated for 'GravityGunProject' in 0.1593 seconds. Added 7 classes and 2 folders.
+[2019.12.10-14.54.33:068][ 34]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.12.10-14.54.33:319][ 34]LogUObjectHash: Compacting FUObjectHashTables data took  13.66ms
+[2019.12.10-14.54.33:587][ 34]LogContentBrowser: Native class hierarchy populated in 0.1642 seconds. Added 2872 classes and 686 folders.
+[2019.12.10-14.54.33:786][ 34]Display: HotReload took 40.5s.
+[2019.12.10-14.54.42:669][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-14.54.42:892][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.54.42:924][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-14.54.42:924][ 76]PIE: New page: PIE session: FirstPersonExampleMap (10 dec 2019 16:54:42)
+[2019.12.10-14.54.42:986][ 76]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-14.54.43:500][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.514022s)
+[2019.12.10-14.54.43:565][ 76]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.10-14.54.43:586][ 76]LogPlayLevel: PIE: World Init took: (0.086167s)
+[2019.12.10-14.54.43:587][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.600847s)
+[2019.12.10-14.54.43:655][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.12.10-14.54.43:694][ 76]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-14.54.43:819][ 76]LogInit: FAudioDevice initialized.
+[2019.12.10-14.54.44:048][ 76]LogLoad: Game class is 'GravityGunProjectGameMode'
+[2019.12.10-14.54.44:084][ 76]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.10-15.54.44
+[2019.12.10-14.54.44:109][ 76]LogWorld: Bringing up level for play took: 0.058353
+[2019.12.10-14.54.44:159][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.10-14.54.44:261][ 76]LogActor: Warning: BP_GravityGun_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_GravityGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-14.54.44:261][ 76]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1,673
+[2019.12.10-14.54.44:275][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.55.24:966][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.55.24:994][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.55.24:994][747]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-14.55.25:015][747]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.55.25:072][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-14.55.25:072][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-14.55.25:181][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-14.55.25:295][747]LogUObjectHash: Compacting FUObjectHashTables data took   9.53ms
+[2019.12.10-14.55.25:442][748]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.10-14.58.17:302][334]LogActor: Warning: BP_GravityGun_C /Engine/Transient.World_4:PersistentLevel.BP_GravityGun_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-14.58.26:223][646]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-14.58.29:849][920]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.10-14.58.34:457][920]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 121 classes and 0 folders.
+[2019.12.10-14.58.48:956][263]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.10-14.58.48:962][263]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-14.58.49:247][263]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.10-14.58.50:753][263]LogSlate: Took 0.102197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.10-15.00.11:873][762]LogSlate: Took 0.062038 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.10-15.00.56:562][658]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2019.12.10-15.00.56:562][658]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.135
+[2019.12.10-15.00.56:602][658]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.12.10-15.00.56:658][658]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.12.10-15.00.56:658][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter]
+[2019.12.10-15.00.57:178][658]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonCharacter_Auto21CF0C83B4F3676AAA9F875A40D98B673.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Autosaves/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.12.10-15.00.57:238][658]LogFileHelpers: Auto-saving content packages took 0.672
+[2019.12.10-15.02.40:162][200]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-15.02.41:089][200]LogUObjectHash: Compacting FUObjectHashTables data took  19.53ms
+[2019.12.10-15.02.42:286][260]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonCharacter2FD2474740B340B6E0ED48A20D9FCC65.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-15.02.43:376][334]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.10-15.02.43:379][334]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.10-15.02.43:380][334]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.08.50:915][600]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.10-15.10.57:688][979]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.12.10-15.10.58:476][979]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonExampleMap_Auto3BBC41E94458FB90FFC494588652DA497.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.12.10-15.10.58:498][979]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.921
+[2019.12.10-15.10.58:498][979]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.921
+[2019.12.10-15.14.15:390][720]Candidate modules for hot reload:
+[2019.12.10-15.14.15:390][720]  GravityGunProject
+[2019.12.10-15.14.15:390][720]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=GravityGunProject,6383 Win64 Development -TargetType=Editor -Project="C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject" "C:/Users/Viktor/Documents/Unreal Projects/GravityGunProject/GravityGunProject.uproject"  -IgnoreJunk]
+[2019.12.10-15.14.16:529][720]Warning: Starting HotReload took  7.8s.
+[2019.12.10-15.14.50:042][131]LogEditorViewport: Clicking on Actor (context menu): TextRenderActor (TemplateLabel)
+[2019.12.10-15.14.51:253][131]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.10-15.15.02:376][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.15.27:240][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.15.33:662][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.16.06:813][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.16.33:853][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.20.27:882][166]CompilerResultsLog: New page: Compilation - 10 dec 2019 17:20:27
+[2019.12.10-15.20.27:882][166]CompilerResultsLog: Parsing headers for GravityGunProjectEditor
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\GravityGunProject.uproject" "C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\GravityGunProjectEditor\Development\GravityGunProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.10-15.20.27:882][166]CompilerResultsLog: Reflection code generated for GravityGunProjectEditor in 52,2643144 seconds
+[2019.12.10-15.20.27:882][166]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.10-15.20.27:882][166]CompilerResultsLog: Building 10 actions with 6 processes...
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [1/10] GravityGunProject.init.gen.cpp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [2/10] GravityGunProjectCharacter.gen.cpp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Inc\GravityGunProject\GravityGunProjectCharacter.gen.cpp(30): warning C4458: declaration of 'IsHittingSomething' hides class member
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject/GravityGunProjectCharacter.h(54): note: see declaration of 'AGravityGunProjectCharacter::IsHittingSomething'
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [3/10] GravityGunProjectHUD.cpp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [4/10] GravityGunProjectHUD.gen.cpp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [5/10] GravityGunProjectGameMode.cpp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [6/10] GravityGunProjectCharacter.cpp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [7/10] GravityGun.cpp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject\GravityGun.cpp(120): warning C4305: 'argument': truncation from 'int' to 'bool'
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Source\GravityGunProject\GravityGun.cpp(122): warning C4996: 'FCollisionQueryParams::FCollisionQueryParams': FCollisionQueryParams, to avoid ambiguity, please use other constructor and explicitly provide an FName parameter (not just a string literal) as the first parameter Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   c:\program files\epic games\ue_4.23\engine\source\runtime\engine\public\CollisionQueryParams.h(133): note: see declaration of 'FCollisionQueryParams::FCollisionQueryParams'
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [8/10] UE4Editor-GravityGunProject-6383.lib
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:      Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-6383.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-6383.exp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [9/10] UE4Editor-GravityGunProject-6383.dll
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:      Creating library C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-6383.suppressed.lib and object C:\Users\Viktor\Documents\Unreal Projects\GravityGunProject\Intermediate\Build\Win64\UE4Editor\Development\GravityGunProject\UE4Editor-GravityGunProject-6383.suppressed.exp
+[2019.12.10-15.20.27:882][166]CompilerResultsLog:   [10/10] GravityGunProjectEditor.target
+[2019.12.10-15.20.27:882][166]CompilerResultsLog: Total time in Parallel executor: 267,89 seconds
+[2019.12.10-15.20.27:882][166]CompilerResultsLog: Total execution time: 359,47 seconds
+[2019.12.10-15.20.27:882][166]LogMainFrame: MainFrame: Module compiling took 372.487 seconds
+[2019.12.10-15.20.27:943][166]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2019.12.10-15.20.28:552][166]LogClass: Could not find existing class GravityGunProjectCharacter in package /Script/GravityGunProject for HotReload, assuming new class
+[2019.12.10-15.20.28:552][166]LogClass: Function PlayFireAnimation is new.
+[2019.12.10-15.20.28:560][166]LogClass: Could not find existing class GravityGunProjectHUD in package /Script/GravityGunProject for HotReload, assuming new class
+[2019.12.10-15.20.28:597][166]LogClass: Function UpdateCrosshairTexture is new.
+[2019.12.10-15.20.28:666][166]LogHotReload: Re-instancing GravityGunProjectCharacter after hot-reload.
+[2019.12.10-15.20.29:219][166]LogHotReload: Re-instancing GravityGunProjectGameMode after hot-reload.
+[2019.12.10-15.20.29:489][166]LogHotReload: Re-instancing GravityGunProjectHUD after hot-reload.
+[2019.12.10-15.20.29:799][166]LogContentBrowser: Native class hierarchy updated for 'GravityGunProject' in 0.0176 seconds. Added 7 classes and 2 folders.
+[2019.12.10-15.20.29:811][166]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2019.12.10-15.20.29:962][166]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.12.10-15.20.29:991][166]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2872 classes and 686 folders.
+[2019.12.10-15.20.29:991][166]Display: HotReload took 381.3s.
+[2019.12.10-15.20.45:470][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.20.45:590][377]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.10-15.23.20:717][787]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2019.12.10-15.23.21:744][787]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonExampleMap_Auto4D29EBB42486334C6C678B1952793FF04.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2019.12.10-15.23.21:775][787]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 1.252
+[2019.12.10-15.23.21:775][787]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.252
+[2019.12.10-15.23.21:778][787]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.12.10-15.23.21:798][787]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.12.10-15.23.21:798][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter]
+[2019.12.10-15.23.22:067][787]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonCharacter_Auto43961ED3D487BA40F73753F83667848DE.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/Autosaves/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2019.12.10-15.23.22:069][787]LogFileHelpers: Auto-saving content packages took 0.292
+[2019.12.10-15.23.24:467][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.23.24:577][941]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-15.23.24:636][941]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Cast To GravityGunProjectHUD  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.10-15.23.24:661][941]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a GravityGunProjectHUD, therefore ' Target ' must have a connection.
+[2019.12.10-15.23.25:289][941]LogUObjectHash: Compacting FUObjectHashTables data took  17.66ms
+[2019.12.10-15.23.58:951][ 44]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-15.23.58:954][ 44]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a GravityGunProjectHUD, therefore ' Target ' must have a connection.
+[2019.12.10-15.23.59:297][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2019.12.10-15.24.57:817][755]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-15.24.57:819][755]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Cast To GravityGunProjectHUD  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.12.10-15.24.57:820][755]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a GravityGunProjectHUD, therefore ' Target ' must have a connection.
+[2019.12.10-15.24.58:163][755]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2019.12.10-15.26.03:301][730]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-15.26.03:644][730]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2019.12.10-15.26.26:567][216]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.10-15.26.26:910][216]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2019.12.10-15.26.33:728][656]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.10-15.26.33:732][656]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.10-15.26.33:732][656]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.26.35:680][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.26.35:811][827]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.10-15.26.35:843][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-15.26.35:843][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.10-15.26.35:843][827]PIE: New page: PIE session: FirstPersonExampleMap (10 dec 2019 17:26:35)
+[2019.12.10-15.26.35:843][827]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-15.26.36:021][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.177929s)
+[2019.12.10-15.26.36:024][827]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.10-15.26.36:024][827]LogPlayLevel: PIE: World Init took: (0.002968s)
+[2019.12.10-15.26.36:024][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.181155s)
+[2019.12.10-15.26.36:111][827]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2019.12.10-15.26.36:231][827]LogInit: XAudio2 using 'Högtalare (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.10-15.26.36:367][827]LogInit: FAudioDevice initialized.
+[2019.12.10-15.26.36:432][827]LogLoad: Game class is 'GravityGunProjectGameMode'
+[2019.12.10-15.26.36:441][827]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.12.10-16.26.36
+[2019.12.10-15.26.36:442][827]LogWorld: Bringing up level for play took: 0.007862
+[2019.12.10-15.26.36:443][827]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.10-15.26.36:480][827]LogActor: Warning: BP_GravityGun_C /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_GravityGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.12.10-15.26.36:481][827]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap −0,144
+[2019.12.10-15.26.36:481][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-15.27.13:603][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-15.27.13:604][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-15.27.13:604][100]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.10-15.27.13:604][100]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.27.13:618][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.10-15.27.13:619][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.10-15.27.13:683][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.10-15.27.13:710][100]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.12.10-15.27.13:740][101]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.10-15.27.22:378][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.27.23:416][144]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.10-15.27.25:616][233]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonCharacterA6955A5E4FA1F7CEABF8ACA0AF8A423C.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.10-15.27.49:906][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.27.50:028][836]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.10-15.27.50:031][836]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.12.10-15.27.50:031][836]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.27.51:517][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.10-15.27.54:619][158]LogUObjectHash: Compacting FUObjectHashTables data took  20.38ms
+[2019.12.10-15.28.07:184][158]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.10-15.30.06:976][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.12.10-15.30.07:155][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.12.10-15.30.07:680][263]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonExampleMapB82EB2954F26A693AB6C6B8159042C95.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2019.12.10-15.30.08:087][263]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.016
+[2019.12.10-15.30.08:131][263]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/crosshairA924F18B4A8EA6930FAD5CA8098F805E.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPerson/Textures/crosshair.uasset'
+[2019.12.10-15.30.10:907][556]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2019.12.10-15.30.11:255][556]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonExampleMap318F838E4AFA767599E04A9D3C8386E7.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2019.12.10-15.30.13:710][556]LogSavePackage: Moving '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Saved/FirstPersonExampleMap_BuiltDataE57EF35444EF8DDD3F5C9ABEBA3D9FC2.tmp' to '../../../../../../Users/Viktor/Documents/Unreal Projects/GravityGunProject/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.12.10-15.30.18:062][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2019.12.10-15.30.18:686][ 50]LogSlate: Window 'GravityGunProject - Unreal Editor' being destroyed
+[2019.12.10-15.30.19:362][ 51]Cmd: QUIT_EDITOR
+[2019.12.10-15.30.20:902][ 51]LogExit: Preparing to exit.
+[2019.12.10-15.30.21:864][ 51]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.30.21:867][ 51]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.30.21:868][ 51]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.30.21:870][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:870][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:870][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:870][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:870][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:870][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:870][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:870][ 51]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.30.21:871][ 51]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.30.21:982][ 51]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.30.21:986][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:986][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:986][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:986][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:986][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:986][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:986][ 51]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.10-15.30.21:986][ 51]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.30.26:145][ 51]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.10-15.30.26:212][ 51]LogExit: Editor shut down
+[2019.12.10-15.30.26:238][ 51]LogExit: Transaction tracking system shut down
+[2019.12.10-15.30.26:540][ 51]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.10-15.30.33:708][ 51]LogExit: Object subsystem successfully closed.
+[2019.12.10-15.30.34:267][ 51]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.10-15.30.36:680][ 51]LogModuleManager: Shutting down and abandoning module GravityGunProject (682)
+[2019.12.10-15.30.36:681][ 51]LogModuleManager: Shutting down and abandoning module BlueprintGraph (681)
+[2019.12.10-15.30.36:681][ 51]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (678)
+[2019.12.10-15.30.36:681][ 51]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2019.12.10-15.30.36:681][ 51]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2019.12.10-15.30.36:701][ 51]LogModuleManager: Shutting down and abandoning module TextureEditor (672)
+[2019.12.10-15.30.36:750][ 51]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.12.10-15.30.36:750][ 51]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.12.10-15.30.36:750][ 51]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.12.10-15.30.36:843][ 51]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.12.10-15.30.36:843][ 51]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.12.10-15.30.36:843][ 51]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.12.10-15.30.36:902][ 51]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2019.12.10-15.30.36:953][ 51]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2019.12.10-15.30.36:953][ 51]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2019.12.10-15.30.36:968][ 51]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2019.12.10-15.30.37:016][ 51]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2019.12.10-15.30.37:016][ 51]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2019.12.10-15.30.37:016][ 51]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2019.12.10-15.30.37:016][ 51]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2019.12.10-15.30.37:028][ 51]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2019.12.10-15.30.37:028][ 51]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2019.12.10-15.30.37:028][ 51]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2019.12.10-15.30.37:050][ 51]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2019.12.10-15.30.37:058][ 51]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2019.12.10-15.30.37:058][ 51]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2019.12.10-15.30.37:059][ 51]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2019.12.10-15.30.37:079][ 51]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2019.12.10-15.30.37:097][ 51]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2019.12.10-15.30.37:202][ 51]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2019.12.10-15.30.37:202][ 51]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2019.12.10-15.30.37:327][ 51]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2019.12.10-15.30.37:346][ 51]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2019.12.10-15.30.37:347][ 51]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2019.12.10-15.30.37:347][ 51]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2019.12.10-15.30.37:347][ 51]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2019.12.10-15.30.37:347][ 51]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2019.12.10-15.30.37:357][ 51]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2019.12.10-15.30.37:391][ 51]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2019.12.10-15.30.37:426][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2019.12.10-15.30.37:427][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2019.12.10-15.30.37:427][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2019.12.10-15.30.37:427][ 51]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2019.12.10-15.30.37:427][ 51]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2019.12.10-15.30.37:427][ 51]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2019.12.10-15.30.37:427][ 51]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2019.12.10-15.30.37:503][ 51]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2019.12.10-15.30.37:503][ 51]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2019.12.10-15.30.37:503][ 51]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2019.12.10-15.30.37:561][ 51]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2019.12.10-15.30.37:593][ 51]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2019.12.10-15.30.37:616][ 51]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2019.12.10-15.30.37:632][ 51]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2019.12.10-15.30.37:646][ 51]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2019.12.10-15.30.37:646][ 51]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2019.12.10-15.30.37:646][ 51]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2019.12.10-15.30.37:646][ 51]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2019.12.10-15.30.37:647][ 51]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2019.12.10-15.30.38:636][ 51]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2019.12.10-15.30.38:637][ 51]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2019.12.10-15.30.38:637][ 51]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2019.12.10-15.30.38:637][ 51]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2019.12.10-15.30.38:637][ 51]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2019.12.10-15.30.38:637][ 51]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2019.12.10-15.30.38:656][ 51]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2019.12.10-15.30.38:684][ 51]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2019.12.10-15.30.38:696][ 51]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2019.12.10-15.30.38:704][ 51]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2019.12.10-15.30.38:704][ 51]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2019.12.10-15.30.38:716][ 51]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2019.12.10-15.30.38:730][ 51]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2019.12.10-15.30.38:744][ 51]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2019.12.10-15.30.38:744][ 51]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2019.12.10-15.30.38:744][ 51]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2019.12.10-15.30.38:744][ 51]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2019.12.10-15.30.38:745][ 51]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2019.12.10-15.30.38:760][ 51]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2019.12.10-15.30.38:776][ 51]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2019.12.10-15.30.38:785][ 51]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2019.12.10-15.30.38:797][ 51]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2019.12.10-15.30.38:811][ 51]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2019.12.10-15.30.38:866][ 51]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2019.12.10-15.30.38:914][ 51]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2019.12.10-15.30.38:920][ 51]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2019.12.10-15.30.38:941][ 51]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2019.12.10-15.30.38:941][ 51]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2019.12.10-15.30.38:941][ 51]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2019.12.10-15.30.38:941][ 51]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2019.12.10-15.30.38:962][ 51]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2019.12.10-15.30.38:988][ 51]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2019.12.10-15.30.38:988][ 51]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2019.12.10-15.30.39:002][ 51]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2019.12.10-15.30.39:095][ 51]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2019.12.10-15.30.39:124][ 51]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2019.12.10-15.30.39:124][ 51]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2019.12.10-15.30.39:124][ 51]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2019.12.10-15.30.39:173][ 51]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2019.12.10-15.30.39:173][ 51]LogModuleManager: Shutting down and abandoning module DesktopPlatform (471)
+[2019.12.10-15.30.39:208][ 51]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.10-15.30.39:217][ 51]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.10-15.30.39:306][ 51]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.10-15.30.39:345][ 51]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.10-15.30.39:360][ 51]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.10-15.30.39:360][ 51]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.10-15.30.39:401][ 51]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.10-15.30.39:401][ 51]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.10-15.30.39:401][ 51]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.10-15.30.39:440][ 51]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.10-15.30.39:453][ 51]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.10-15.30.39:453][ 51]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.10-15.30.39:453][ 51]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.10-15.30.39:453][ 51]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.10-15.30.39:453][ 51]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.10-15.30.39:453][ 51]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.10-15.30.39:483][ 51]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.10-15.30.39:483][ 51]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.10-15.30.39:483][ 51]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.10-15.30.39:483][ 51]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2019.12.10-15.30.39:493][ 51]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2019.12.10-15.30.39:524][ 51]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2019.12.10-15.30.39:548][ 51]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2019.12.10-15.30.39:548][ 51]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2019.12.10-15.30.39:548][ 51]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2019.12.10-15.30.39:548][ 51]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2019.12.10-15.30.39:572][ 51]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2019.12.10-15.30.39:572][ 51]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2019.12.10-15.30.39:572][ 51]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2019.12.10-15.30.39:572][ 51]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2019.12.10-15.30.39:594][ 51]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2019.12.10-15.30.39:594][ 51]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2019.12.10-15.30.39:594][ 51]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2019.12.10-15.30.39:594][ 51]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2019.12.10-15.30.39:594][ 51]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2019.12.10-15.30.39:594][ 51]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2019.12.10-15.30.39:594][ 51]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.12.10-15.30.39:594][ 51]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.12.10-15.30.39:607][ 51]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.12.10-15.30.39:623][ 51]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.12.10-15.30.39:623][ 51]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2019.12.10-15.30.39:629][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2019.12.10-15.30.39:629][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2019.12.10-15.30.39:629][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2019.12.10-15.30.39:650][ 51]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2019.12.10-15.30.39:650][ 51]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2019.12.10-15.30.39:650][ 51]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2019.12.10-15.30.39:650][ 51]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2019.12.10-15.30.39:666][ 51]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2019.12.10-15.30.39:666][ 51]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2019.12.10-15.30.39:666][ 51]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2019.12.10-15.30.39:684][ 51]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2019.12.10-15.30.39:685][ 51]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2019.12.10-15.30.39:685][ 51]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2019.12.10-15.30.39:685][ 51]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2019.12.10-15.30.39:685][ 51]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2019.12.10-15.30.39:685][ 51]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2019.12.10-15.30.39:685][ 51]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2019.12.10-15.30.39:762][ 51]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2019.12.10-15.30.39:770][ 51]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2019.12.10-15.30.39:777][ 51]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2019.12.10-15.30.39:813][ 51]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2019.12.10-15.30.39:849][ 51]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2019.12.10-15.30.39:849][ 51]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2019.12.10-15.30.39:849][ 51]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2019.12.10-15.30.39:849][ 51]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2019.12.10-15.30.39:849][ 51]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2019.12.10-15.30.39:849][ 51]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2019.12.10-15.30.39:874][ 51]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2019.12.10-15.30.39:891][ 51]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2019.12.10-15.30.39:913][ 51]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2019.12.10-15.30.39:953][ 51]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.10-15.30.39:953][ 51]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.10-15.30.39:953][ 51]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.10-15.30.39:953][ 51]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.10-15.30.39:953][ 51]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.10-15.30.39:953][ 51]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.10-15.30.40:054][ 51]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.10-15.30.40:219][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.10-15.30.40:219][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.10-15.30.40:220][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.10-15.30.40:237][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.10-15.30.40:260][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.10-15.30.40:260][ 51]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.10-15.30.40:260][ 51]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.10-15.30.40:260][ 51]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.10-15.30.40:261][ 51]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.10-15.30.40:261][ 51]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.10-15.30.40:261][ 51]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.10-15.30.40:261][ 51]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.10-15.30.40:261][ 51]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.10-15.30.40:288][ 51]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.10-15.30.40:341][ 51]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.10-15.30.40:365][ 51]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.10-15.30.40:405][ 51]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.10-15.30.40:405][ 51]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.10-15.30.40:425][ 51]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.10-15.30.40:430][ 51]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.10-15.30.40:449][ 51]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.10-15.30.40:449][ 51]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.10-15.30.40:449][ 51]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.10-15.30.40:480][ 51]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.10-15.30.40:494][ 51]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.10-15.30.40:501][ 51]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.10-15.30.40:501][ 51]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.10-15.30.40:530][ 51]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.10-15.30.40:567][ 51]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.10-15.30.40:618][ 51]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.10-15.30.40:619][ 51]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.10-15.30.40:619][ 51]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.10-15.30.40:619][ 51]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.10-15.30.40:663][ 51]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.10-15.30.40:693][ 51]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.10-15.30.40:693][ 51]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.10-15.30.40:738][ 51]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.10-15.30.40:754][ 51]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.10-15.30.40:782][ 51]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.10-15.30.40:803][ 51]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.10-15.30.40:823][ 51]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.10-15.30.40:840][ 51]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.10-15.30.40:881][ 51]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.10-15.30.40:881][ 51]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.10-15.30.40:919][ 51]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.10-15.30.40:919][ 51]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.10-15.30.40:919][ 51]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.10-15.30.40:947][ 51]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.10-15.30.40:947][ 51]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.10-15.30.40:947][ 51]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.10-15.30.40:947][ 51]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.10-15.30.40:947][ 51]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.10-15.30.40:947][ 51]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.10-15.30.40:947][ 51]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.10-15.30.40:970][ 51]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.10-15.30.40:970][ 51]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.10-15.30.40:970][ 51]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.10-15.30.40:990][ 51]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.10-15.30.40:990][ 51]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.10-15.30.41:012][ 51]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.10-15.30.41:051][ 51]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.10-15.30.41:058][ 51]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.10-15.30.41:073][ 51]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.10-15.30.41:073][ 51]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.10-15.30.41:073][ 51]LogDerivedDataCache: Shutdown
+[2019.12.10-15.30.41:073][ 51]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.10-15.30.41:085][ 51]LogXGEController: Cleaning working directory: C:/Users/Viktor/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.10-15.30.41:110][ 51]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.10-15.30.41:130][ 51]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.10-15.30.41:157][ 51]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.10-15.30.41:196][ 51]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.10-15.30.41:219][ 51]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.10-15.30.41:251][ 51]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.10-15.30.41:286][ 51]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.10-15.30.41:286][ 51]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.10-15.30.41:286][ 51]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.10-15.30.41:286][ 51]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.10-15.30.41:320][ 51]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.10-15.30.41:320][ 51]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.10-15.30.41:320][ 51]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.10-15.30.41:320][ 51]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.10-15.30.41:338][ 51]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.10-15.30.41:338][ 51]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.10-15.30.41:338][ 51]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.10-15.30.41:625][ 51]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.10-15.30.41:625][ 51]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.10-15.30.41:667][ 51]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.10-15.30.41:673][ 51]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.10-15.30.41:680][ 51]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.10-15.30.41:719][ 51]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.10-15.30.41:719][ 51]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.10-15.30.41:745][ 51]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.10-15.30.41:745][ 51]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.10-15.30.41:842][ 51]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.10-15.30.41:842][ 51]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.10-15.30.41:866][ 51]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.10-15.30.41:885][ 51]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.10-15.30.41:908][ 51]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.10-15.30.41:910][ 51]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.10-15.30.41:911][ 51]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.10-15.30.41:912][ 51]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.10-15.30.41:917][ 51]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.10-15.30.41:931][ 51]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.10-15.30.41:931][ 51]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.10-15.30.41:931][ 51]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.10-15.30.41:947][ 51]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.10-15.30.41:947][ 51]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.10-15.30.41:948][ 51]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.10-15.30.41:961][ 51]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.10-15.30.41:970][ 51]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.10-15.30.41:970][ 51]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.10-15.30.41:980][ 51]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.10-15.30.41:981][ 51]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.10-15.30.41:981][ 51]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.10-15.30.41:981][ 51]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.10-15.30.42:040][ 51]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.10-15.30.42:107][ 51]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.10-15.30.42:376][ 51]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.10-15.30.42:376][ 51]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.10-15.30.42:376][ 51]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B11077E04-49E3-A557-3FE7-5C9CF66D8EBD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=413d0c4c4cb3abed6eafecafb09c7dbf%7C29e66d52c99c4201ada37c2db1255afa%7C37c326b2-1f96-4a11-ac60-7e52f23b58e6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.10-15.30.42:432][ 51]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.10-15.30.42:598][ 51]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.10-15.30.42:683][ 51]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.10-15.30.42:684][ 51]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.10-15.30.42:702][ 51]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.10-15.30.42:712][ 51]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.10-15.30.42:712][ 51]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.10-15.30.42:724][ 51]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.10-15.30.42:724][ 51]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.10-15.30.42:750][ 51]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.10-15.30.42:750][ 51]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.10-15.30.42:897][ 51]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.10-15.30.42:897][ 51]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.10-15.30.42:897][ 51]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.10-15.30.42:897][ 51]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.10-15.30.42:942][ 51]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.10-15.30.42:984][ 51]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.10-15.30.42:984][ 51]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.10-15.30.42:984][ 51]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.10-15.30.42:985][ 51]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.10-15.30.43:002][ 51]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.10-15.30.43:002][ 51]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.10-15.30.43:013][ 51]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.10-15.30.43:013][ 51]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.10-15.30.43:031][ 51]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.10-15.30.43:050][ 51]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.10-15.30.43:116][ 51]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.10-15.30.43:208][ 51]LogD3D11RHI: Shutdown
+[2019.12.10-15.30.43:208][ 51]LogD3D11RHI: CleanupD3DDevice
+[2019.12.10-15.30.43:850][ 51]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-15.30.43:884][ 51]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-15.30.43:884][ 51]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.10-15.30.45:605][ 51]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.10-15.30.45:856][ 51]LogExit: Exiting.
+[2019.12.10-15.30.46:358][ 51]Log file closed, 12/10/19 16:30:46
